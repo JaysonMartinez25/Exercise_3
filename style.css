@@ -1,0 +1,39 @@
+.Members-Male{
+    
+    margin-bottom: 20px;
+    width: 500px;
+    border: solid 2px;
+    border-style: single;
+    height: 210px;
+    height: 210px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(190, 221, 248);
+    margin-inline: auto;
+}
+
+.Members-Female{
+    margin-bottom: 20px;
+    width: 500px;
+    border: solid 2px;
+    border-style: single;
+    height: 210px;
+    height: 210px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(247, 196, 217);
+    margin-inline: auto;
+}
+.members-photo{
+    height: 200px;
+    width: 150px;
+    border: solid 1px;
+    border-radius: 50%;
+    margin-right: 35px;
+    
+}
+.Names{
+    font-family:Georgia;
+    font-size: 33px;
+    padding-left:auto;
+}
